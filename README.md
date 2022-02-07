@@ -4,10 +4,10 @@
 
 # 使用方法
 ```
-npm install vue-skeleton-component --save-dev
+npm install vue-skeleton2 --save-dev
 
 // main.js
-import skeleton from 'vue-skeleton-component'
+import skeleton from 'vue-skeleton2'
 Vue.use(skeleton)
 ```
 # 骨架屏样式

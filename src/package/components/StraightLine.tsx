@@ -14,11 +14,9 @@ class straightline extends BaseComponent {
         const { type, options, title = false, loading = false, active = false} = this.$props
         const { height='10px', width='100%', position='top' } = options
         let n = +height.split('px')[0] + 30
-        const styleC = {
-            width,
-            height,
-            background: '#ebebeb'
-        }
+
+        const styleC = Object.assign({position:'top',width,height},options)
+
         const styleO = {
             width: '100%',
             height: '100%',

@@ -14,20 +14,17 @@ class circlecom extends BaseComponent {
   }
   public render(h) {
     const { type, title = false, options, loading = false, active = false, start = true, center = false, end = false } = this.$props
-    const { width = '100%', size='default' } = options
 
     this.$nextTick(() => {
-      console.log(this.$el.clientWidth)
+      // console.log(this.$el.clientWidth)
     })
-    const styleC = {
-      width: width,
-      height: width,
-      // margin: '15%',
-      background: '#ebebeb',
-      'border-radius': '50%',
-      overflow: 'hidden',
-      margin: 'auto'
-    }
+
+
+    const styleC = Object.assign({width : '100%', size:'default',background: '#ebebeb',
+    'border-radius': '50%'},options)
+
+
+
     return (
       <div class={[style.CircleCom]}>
         <div style={[styleC]} class={[active ? style.progActive : style.prog]}></div>

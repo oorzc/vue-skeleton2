@@ -10,12 +10,9 @@ class rectangular extends BaseComponent {
   public name: string = 'rectangular'
   public render(h) {
     const {type, options, title, loading, active} = this.$props
-    const {width, height} = options
-    const styleC = {
-      width,
-      height,
-      background: '#f2f2f2'
-    }
+
+    const styleC = Object.assign({},options)
+    
     return (
       <div class={active ? style.progActive : style.prog} style={styleC}>
       </div>

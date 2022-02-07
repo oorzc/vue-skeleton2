@@ -1,13 +1,14 @@
 {
   "name": "vue-skeleton2",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "vue通用的骨架屏展示解决方案",
   "main": "dist/bundle.js",
   "scripts": {
     "dev": "webpack-dev-server --open --hot --config='./build/webpack.dev.config.js'",
     "dev:build": "webpack --config='./build/webpack.dev.config.js'",
     "build": "webpack --progress --config='./build/webpack.prod.config.js' --profile --json > stats.json",
-    "fix": "tslint --fix --project ./tsconfig.json"
+    "fix": "tslint --fix --project ./tsconfig.json",
+    "push": "bash push.sh"
   },
   "repository": {
     "type": "git",
@@ -44,6 +45,7 @@
     "less": "^3.9.0",
     "less-loader": "^4.1.0",
     "postcss-loader": "^3.0.0",
+    "style-loader": "^0.23.1",
     "ts-loader": "^5.3.3",
     "tslint": "^5.14.0",
     "tslint-loader": "^3.5.4",
@@ -54,8 +56,7 @@
     "webpack": "^4.29.6",
     "webpack-cli": "^3.3.0",
     "webpack-dev-server": "^3.2.1",
-    "webpack-merge": "^4.2.1",
-    "style-loader": "^0.23.1"
+    "webpack-merge": "^4.2.1"
   },
   "dependencies": {
     "vue": "^2.6.10"
