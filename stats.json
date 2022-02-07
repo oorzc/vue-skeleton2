@@ -13,8 +13,8 @@
   ],
   "version": "4.30.0",
   "hash": "eb0f7678145493504a2a",
-  "time": 3300,
-  "builtAt": 1644218082128,
+  "time": 3271,
+  "builtAt": 1644218257287,
   "publicPath": "",
   "outputPath": "/Users/apple/wwwtest/vue-skeleton2/dist",
   "assetsByChunkName": {
@@ -100,8 +100,8 @@
               "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/main.ts",
               "name": "./src/main.ts",
               "profile": {
-                "factory": 32,
-                "building": 1943
+                "factory": 36,
+                "building": 1909
               }
             },
             {
@@ -118,16 +118,16 @@
               "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/Skeleton.tsx",
               "name": "./src/package/Skeleton.tsx",
               "profile": {
-                "factory": 6,
-                "building": 705,
-                "dependencies": 505
+                "factory": 5,
+                "building": 711,
+                "dependencies": 508
               }
             }
           ],
           "profile": {
-            "factory": 580,
-            "building": 123,
-            "dependencies": 20
+            "factory": 584,
+            "building": 247,
+            "dependencies": 18
           },
           "failed": false,
           "errors": 0,
@@ -483,8 +483,8 @@
               "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/main.ts",
               "name": "./src/main.ts",
               "profile": {
-                "factory": 32,
-                "building": 1943
+                "factory": 36,
+                "building": 1909
               }
             },
             {
@@ -501,9 +501,9 @@
               "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/Skeleton.tsx",
               "name": "./src/package/Skeleton.tsx",
               "profile": {
-                "factory": 6,
-                "building": 705,
-                "dependencies": 505
+                "factory": 5,
+                "building": 711,
+                "dependencies": 508
               }
             },
             {
@@ -511,15 +511,15 @@
               "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/vue-property-decorator/lib/vue-property-decorator.js",
               "name": "./node_modules/vue-property-decorator/lib/vue-property-decorator.js",
               "profile": {
-                "factory": 580,
-                "building": 123,
-                "dependencies": 20
+                "factory": 584,
+                "building": 247,
+                "dependencies": 18
               }
             }
           ],
           "profile": {
-            "factory": 146,
-            "building": 12,
+            "factory": 15,
+            "building": 8,
             "dependencies": 0
           },
           "failed": false,
@@ -633,8 +633,8 @@
               "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/main.ts",
               "name": "./src/main.ts",
               "profile": {
-                "factory": 32,
-                "building": 1943
+                "factory": 36,
+                "building": 1909
               }
             },
             {
@@ -651,9 +651,9 @@
               "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/Skeleton.tsx",
               "name": "./src/package/Skeleton.tsx",
               "profile": {
-                "factory": 6,
-                "building": 705,
-                "dependencies": 505
+                "factory": 5,
+                "building": 711,
+                "dependencies": 508
               }
             },
             {
@@ -661,15 +661,15 @@
               "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/vue-property-decorator/lib/vue-property-decorator.js",
               "name": "./node_modules/vue-property-decorator/lib/vue-property-decorator.js",
               "profile": {
-                "factory": 580,
-                "building": 123,
-                "dependencies": 20
+                "factory": 584,
+                "building": 247,
+                "dependencies": 18
               }
             }
           ],
           "profile": {
-            "factory": 146,
-            "building": 12,
+            "factory": 15,
+            "building": 8,
             "dependencies": 0
           },
           "failed": false,
@@ -735,8 +735,8 @@
               "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/main.ts",
               "name": "./src/main.ts",
               "profile": {
-                "factory": 32,
-                "building": 1943
+                "factory": 36,
+                "building": 1909
               }
             },
             {
@@ -753,9 +753,9 @@
               "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/Skeleton.tsx",
               "name": "./src/package/Skeleton.tsx",
               "profile": {
-                "factory": 6,
-                "building": 705,
-                "dependencies": 505
+                "factory": 5,
+                "building": 711,
+                "dependencies": 508
               }
             },
             {
@@ -763,15 +763,15 @@
               "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/vue-style-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/node_modules/css-loader/dist/cjs.js??ref--1-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/postcss-loader/src/index.js??ref--1-2!/Users/apple/wwwtest/vue-skeleton2/node_modules/less-loader/dist/cjs.js!/Users/apple/wwwtest/vue-skeleton2/src/package/style/style.less",
               "name": "./src/package/style/style.less",
               "profile": {
-                "factory": 580,
-                "building": 123,
-                "dependencies": 20
+                "factory": 584,
+                "building": 247,
+                "dependencies": 18
               }
             }
           ],
           "profile": {
-            "factory": 111,
-            "building": 147
+            "factory": 99,
+            "building": 152
           },
           "failed": false,
           "errors": 0,
@@ -819,8 +819,8 @@
               "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/main.ts",
               "name": "./src/main.ts",
               "profile": {
-                "factory": 32,
-                "building": 1943
+                "factory": 36,
+                "building": 1909
               }
             },
             {
@@ -837,9 +837,9 @@
               "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/Skeleton.tsx",
               "name": "./src/package/Skeleton.tsx",
               "profile": {
-                "factory": 6,
-                "building": 705,
-                "dependencies": 505
+                "factory": 5,
+                "building": 711,
+                "dependencies": 508
               }
             },
             {
@@ -847,9 +847,9 @@
               "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/vue-style-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/node_modules/css-loader/dist/cjs.js??ref--1-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/postcss-loader/src/index.js??ref--1-2!/Users/apple/wwwtest/vue-skeleton2/node_modules/less-loader/dist/cjs.js!/Users/apple/wwwtest/vue-skeleton2/src/package/style/style.less",
               "name": "./src/package/style/style.less",
               "profile": {
-                "factory": 580,
-                "building": 123,
-                "dependencies": 20
+                "factory": 584,
+                "building": 247,
+                "dependencies": 18
               }
             },
             {
@@ -857,14 +857,14 @@
               "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/css-loader/dist/cjs.js??ref--1-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/postcss-loader/src/index.js??ref--1-2!/Users/apple/wwwtest/vue-skeleton2/node_modules/less-loader/dist/cjs.js!/Users/apple/wwwtest/vue-skeleton2/src/package/style/style.less",
               "name": "./node_modules/css-loader/dist/cjs.js??ref--1-1!./node_modules/postcss-loader/src??ref--1-2!./node_modules/less-loader/dist/cjs.js!./src/package/style/style.less",
               "profile": {
-                "factory": 111,
-                "building": 147
+                "factory": 99,
+                "building": 152
               }
             }
           ],
           "profile": {
-            "factory": 8,
-            "building": 3
+            "factory": 21,
+            "building": 4
           },
           "failed": false,
           "errors": 0,
@@ -950,8 +950,8 @@
               "issuerName": null,
               "issuerPath": null,
               "profile": {
-                "factory": 32,
-                "building": 1943
+                "factory": 36,
+                "building": 1909
               },
               "failed": false,
               "errors": 0,
@@ -999,8 +999,8 @@
                   "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 32,
-                    "building": 1943
+                    "factory": 36,
+                    "building": 1909
                   }
                 }
               ],
@@ -1168,8 +1168,8 @@
                   "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 32,
-                    "building": 1943
+                    "factory": 36,
+                    "building": 1909
                   }
                 },
                 {
@@ -1183,9 +1183,9 @@
                 }
               ],
               "profile": {
-                "factory": 6,
-                "building": 705,
-                "dependencies": 505
+                "factory": 5,
+                "building": 711,
+                "dependencies": 508
               },
               "failed": false,
               "errors": 0,
@@ -1260,8 +1260,8 @@
                   "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 32,
-                    "building": 1943
+                    "factory": 36,
+                    "building": 1909
                   }
                 },
                 {
@@ -1275,9 +1275,9 @@
                 }
               ],
               "profile": {
-                "factory": 6,
-                "building": 705,
-                "dependencies": 505
+                "factory": 5,
+                "building": 711,
+                "dependencies": 508
               },
               "failed": false,
               "errors": 0,
@@ -1352,8 +1352,8 @@
                   "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 32,
-                    "building": 1943
+                    "factory": 36,
+                    "building": 1909
                   }
                 },
                 {
@@ -1367,9 +1367,9 @@
                 }
               ],
               "profile": {
-                "factory": 6,
-                "building": 705,
-                "dependencies": 505
+                "factory": 5,
+                "building": 711,
+                "dependencies": 508
               },
               "failed": false,
               "errors": 0,
@@ -1444,8 +1444,8 @@
                   "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 32,
-                    "building": 1943
+                    "factory": 36,
+                    "building": 1909
                   }
                 },
                 {
@@ -1459,9 +1459,9 @@
                 }
               ],
               "profile": {
-                "factory": 6,
-                "building": 705,
-                "dependencies": 505
+                "factory": 5,
+                "building": 711,
+                "dependencies": 508
               },
               "failed": false,
               "errors": 0,
@@ -1536,8 +1536,8 @@
                   "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 32,
-                    "building": 1943
+                    "factory": 36,
+                    "building": 1909
                   }
                 },
                 {
@@ -1551,9 +1551,9 @@
                 }
               ],
               "profile": {
-                "factory": 6,
-                "building": 705,
-                "dependencies": 505
+                "factory": 5,
+                "building": 711,
+                "dependencies": 508
               },
               "failed": false,
               "errors": 0,
@@ -1628,8 +1628,8 @@
                   "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 32,
-                    "building": 1943
+                    "factory": 36,
+                    "building": 1909
                   }
                 },
                 {
@@ -1643,9 +1643,9 @@
                 }
               ],
               "profile": {
-                "factory": 6,
-                "building": 705,
-                "dependencies": 505
+                "factory": 5,
+                "building": 711,
+                "dependencies": 508
               },
               "failed": false,
               "errors": 0,
@@ -1720,8 +1720,8 @@
                   "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 32,
-                    "building": 1943
+                    "factory": 36,
+                    "building": 1909
                   }
                 },
                 {
@@ -1735,9 +1735,9 @@
                 }
               ],
               "profile": {
-                "factory": 6,
-                "building": 705,
-                "dependencies": 505
+                "factory": 5,
+                "building": 711,
+                "dependencies": 508
               },
               "failed": false,
               "errors": 0,
@@ -1812,8 +1812,8 @@
                   "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 32,
-                    "building": 1943
+                    "factory": 36,
+                    "building": 1909
                   }
                 },
                 {
@@ -1827,9 +1827,9 @@
                 }
               ],
               "profile": {
-                "factory": 6,
-                "building": 705,
-                "dependencies": 505
+                "factory": 5,
+                "building": 711,
+                "dependencies": 508
               },
               "failed": false,
               "errors": 0,
@@ -1904,8 +1904,8 @@
                   "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 32,
-                    "building": 1943
+                    "factory": 36,
+                    "building": 1909
                   }
                 },
                 {
@@ -1919,9 +1919,9 @@
                 }
               ],
               "profile": {
-                "factory": 6,
-                "building": 705,
-                "dependencies": 505
+                "factory": 5,
+                "building": 711,
+                "dependencies": 508
               },
               "failed": false,
               "errors": 0,
@@ -1978,8 +1978,8 @@
                   "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 32,
-                    "building": 1943
+                    "factory": 36,
+                    "building": 1909
                   }
                 },
                 {
@@ -1996,16 +1996,16 @@
                   "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/Skeleton.tsx",
                   "name": "./src/package/Skeleton.tsx",
                   "profile": {
-                    "factory": 6,
-                    "building": 705,
-                    "dependencies": 505
+                    "factory": 5,
+                    "building": 711,
+                    "dependencies": 508
                   }
                 }
               ],
               "profile": {
-                "factory": 580,
-                "building": 123,
-                "dependencies": 20
+                "factory": 584,
+                "building": 247,
+                "dependencies": 18
               },
               "failed": false,
               "errors": 0,
@@ -2023,9 +2023,18 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/List.tsx",
-                  "module": "./src/package/components/List.tsx",
-                  "moduleName": "./src/package/components/List.tsx",
+                  "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/StraightLine.tsx",
+                  "module": "./src/package/components/StraightLine.tsx",
+                  "moduleName": "./src/package/components/StraightLine.tsx",
+                  "type": "harmony side effect evaluation",
+                  "userRequest": "vue-property-decorator",
+                  "loc": "41:0-51"
+                },
+                {
+                  "moduleId": null,
+                  "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/ListCom.tsx",
+                  "module": "./src/package/components/ListCom.tsx",
+                  "moduleName": "./src/package/components/ListCom.tsx",
                   "type": "harmony side effect evaluation",
                   "userRequest": "vue-property-decorator",
                   "loc": "41:0-51"
@@ -2041,9 +2050,9 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/Card.tsx",
-                  "module": "./src/package/components/Card.tsx",
-                  "moduleName": "./src/package/components/Card.tsx",
+                  "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/List.tsx",
+                  "module": "./src/package/components/List.tsx",
+                  "moduleName": "./src/package/components/List.tsx",
                   "type": "harmony side effect evaluation",
                   "userRequest": "vue-property-decorator",
                   "loc": "41:0-51"
@@ -2053,15 +2062,6 @@
                   "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/Circle.tsx",
                   "module": "./src/package/components/Circle.tsx",
                   "moduleName": "./src/package/components/Circle.tsx",
-                  "type": "harmony side effect evaluation",
-                  "userRequest": "vue-property-decorator",
-                  "loc": "41:0-51"
-                },
-                {
-                  "moduleId": null,
-                  "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/StraightLine.tsx",
-                  "module": "./src/package/components/StraightLine.tsx",
-                  "moduleName": "./src/package/components/StraightLine.tsx",
                   "type": "harmony side effect evaluation",
                   "userRequest": "vue-property-decorator",
                   "loc": "41:0-51"
@@ -2086,9 +2086,9 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/ListCom.tsx",
-                  "module": "./src/package/components/ListCom.tsx",
-                  "moduleName": "./src/package/components/ListCom.tsx",
+                  "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/Card.tsx",
+                  "module": "./src/package/components/Card.tsx",
+                  "moduleName": "./src/package/components/Card.tsx",
                   "type": "harmony side effect evaluation",
                   "userRequest": "vue-property-decorator",
                   "loc": "41:0-51"
@@ -2306,8 +2306,8 @@
                   "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 32,
-                    "building": 1943
+                    "factory": 36,
+                    "building": 1909
                   }
                 },
                 {
@@ -2324,16 +2324,16 @@
                   "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/Skeleton.tsx",
                   "name": "./src/package/Skeleton.tsx",
                   "profile": {
-                    "factory": 6,
-                    "building": 705,
-                    "dependencies": 505
+                    "factory": 5,
+                    "building": 711,
+                    "dependencies": 508
                   }
                 }
               ],
               "profile": {
-                "factory": 580,
-                "building": 123,
-                "dependencies": 20
+                "factory": 584,
+                "building": 247,
+                "dependencies": 18
               },
               "failed": false,
               "errors": 0,
@@ -2342,36 +2342,9 @@
               "reasons": [
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/Skeleton.tsx",
-                  "module": "./src/package/Skeleton.tsx",
-                  "moduleName": "./src/package/Skeleton.tsx",
-                  "type": "harmony side effect evaluation",
-                  "userRequest": "./BaseComponent",
-                  "loc": "42:0-44"
-                },
-                {
-                  "moduleId": null,
-                  "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/Rect.tsx",
-                  "module": "./src/package/components/Rect.tsx",
-                  "moduleName": "./src/package/components/Rect.tsx",
-                  "type": "harmony side effect evaluation",
-                  "userRequest": "../BaseComponent",
-                  "loc": "42:0-45"
-                },
-                {
-                  "moduleId": null,
-                  "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/ListCom.tsx",
-                  "module": "./src/package/components/ListCom.tsx",
-                  "moduleName": "./src/package/components/ListCom.tsx",
-                  "type": "harmony side effect evaluation",
-                  "userRequest": "../BaseComponent",
-                  "loc": "42:0-45"
-                },
-                {
-                  "moduleId": null,
-                  "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/List.tsx",
-                  "module": "./src/package/components/List.tsx",
-                  "moduleName": "./src/package/components/List.tsx",
+                  "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/Card.tsx",
+                  "module": "./src/package/components/Card.tsx",
+                  "moduleName": "./src/package/components/Card.tsx",
                   "type": "harmony side effect evaluation",
                   "userRequest": "../BaseComponent",
                   "loc": "42:0-45"
@@ -2396,6 +2369,15 @@
                 },
                 {
                   "moduleId": null,
+                  "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/List.tsx",
+                  "module": "./src/package/components/List.tsx",
+                  "moduleName": "./src/package/components/List.tsx",
+                  "type": "harmony side effect evaluation",
+                  "userRequest": "../BaseComponent",
+                  "loc": "42:0-45"
+                },
+                {
+                  "moduleId": null,
                   "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/Avatar.tsx",
                   "module": "./src/package/components/Avatar.tsx",
                   "moduleName": "./src/package/components/Avatar.tsx",
@@ -2405,9 +2387,27 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/Card.tsx",
-                  "module": "./src/package/components/Card.tsx",
-                  "moduleName": "./src/package/components/Card.tsx",
+                  "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/Rect.tsx",
+                  "module": "./src/package/components/Rect.tsx",
+                  "moduleName": "./src/package/components/Rect.tsx",
+                  "type": "harmony side effect evaluation",
+                  "userRequest": "../BaseComponent",
+                  "loc": "42:0-45"
+                },
+                {
+                  "moduleId": null,
+                  "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/Skeleton.tsx",
+                  "module": "./src/package/Skeleton.tsx",
+                  "moduleName": "./src/package/Skeleton.tsx",
+                  "type": "harmony side effect evaluation",
+                  "userRequest": "./BaseComponent",
+                  "loc": "42:0-44"
+                },
+                {
+                  "moduleId": null,
+                  "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/ListCom.tsx",
+                  "module": "./src/package/components/ListCom.tsx",
+                  "moduleName": "./src/package/components/ListCom.tsx",
                   "type": "harmony side effect evaluation",
                   "userRequest": "../BaseComponent",
                   "loc": "42:0-45"
@@ -2459,18 +2459,18 @@
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/ListCom.tsx",
-                  "module": "./src/package/components/ListCom.tsx",
-                  "moduleName": "./src/package/components/ListCom.tsx",
+                  "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/Avatar.tsx",
+                  "module": "./src/package/components/Avatar.tsx",
+                  "moduleName": "./src/package/components/Avatar.tsx",
                   "type": "harmony import specifier",
                   "userRequest": "../BaseComponent",
                   "loc": "118:2-15"
                 },
                 {
                   "moduleId": null,
-                  "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/Avatar.tsx",
-                  "module": "./src/package/components/Avatar.tsx",
-                  "moduleName": "./src/package/components/Avatar.tsx",
+                  "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/ListCom.tsx",
+                  "module": "./src/package/components/ListCom.tsx",
+                  "moduleName": "./src/package/components/ListCom.tsx",
                   "type": "harmony import specifier",
                   "userRequest": "../BaseComponent",
                   "loc": "118:2-15"
@@ -2534,8 +2534,8 @@
                   "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 32,
-                    "building": 1943
+                    "factory": 36,
+                    "building": 1909
                   }
                 },
                 {
@@ -2552,15 +2552,15 @@
                   "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/Custom.tsx",
                   "name": "./src/package/components/Custom.tsx",
                   "profile": {
-                    "factory": 6,
-                    "building": 705,
-                    "dependencies": 505
+                    "factory": 5,
+                    "building": 711,
+                    "dependencies": 508
                   }
                 }
               ],
               "profile": {
-                "factory": 361,
-                "building": 123
+                "factory": 396,
+                "building": 248
               },
               "failed": false,
               "errors": 0,
@@ -2660,8 +2660,8 @@
                   "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 32,
-                    "building": 1943
+                    "factory": 36,
+                    "building": 1909
                   }
                 },
                 {
@@ -2678,9 +2678,9 @@
                   "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/Skeleton.tsx",
                   "name": "./src/package/Skeleton.tsx",
                   "profile": {
-                    "factory": 6,
-                    "building": 705,
-                    "dependencies": 505
+                    "factory": 5,
+                    "building": 711,
+                    "dependencies": 508
                   }
                 },
                 {
@@ -2688,15 +2688,15 @@
                   "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/vue-style-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/node_modules/css-loader/dist/cjs.js??ref--1-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/postcss-loader/src/index.js??ref--1-2!/Users/apple/wwwtest/vue-skeleton2/node_modules/less-loader/dist/cjs.js!/Users/apple/wwwtest/vue-skeleton2/src/package/style/style.less",
                   "name": "./src/package/style/style.less",
                   "profile": {
-                    "factory": 580,
-                    "building": 123,
-                    "dependencies": 20
+                    "factory": 584,
+                    "building": 247,
+                    "dependencies": 18
                   }
                 }
               ],
               "profile": {
-                "factory": 111,
-                "building": 147
+                "factory": 99,
+                "building": 152
               },
               "failed": false,
               "errors": 0,
@@ -2744,8 +2744,8 @@
                   "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/main.ts",
                   "name": "./src/main.ts",
                   "profile": {
-                    "factory": 32,
-                    "building": 1943
+                    "factory": 36,
+                    "building": 1909
                   }
                 },
                 {
@@ -2762,9 +2762,9 @@
                   "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/Skeleton.tsx",
                   "name": "./src/package/Skeleton.tsx",
                   "profile": {
-                    "factory": 6,
-                    "building": 705,
-                    "dependencies": 505
+                    "factory": 5,
+                    "building": 711,
+                    "dependencies": 508
                   }
                 },
                 {
@@ -2772,9 +2772,9 @@
                   "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/vue-style-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/node_modules/css-loader/dist/cjs.js??ref--1-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/postcss-loader/src/index.js??ref--1-2!/Users/apple/wwwtest/vue-skeleton2/node_modules/less-loader/dist/cjs.js!/Users/apple/wwwtest/vue-skeleton2/src/package/style/style.less",
                   "name": "./src/package/style/style.less",
                   "profile": {
-                    "factory": 580,
-                    "building": 123,
-                    "dependencies": 20
+                    "factory": 584,
+                    "building": 247,
+                    "dependencies": 18
                   }
                 },
                 {
@@ -2782,14 +2782,14 @@
                   "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/vue-style-loader/lib/addStylesClient.js",
                   "name": "./node_modules/vue-style-loader/lib/addStylesClient.js",
                   "profile": {
-                    "factory": 111,
-                    "building": 147
+                    "factory": 99,
+                    "building": 152
                   }
                 }
               ],
               "profile": {
-                "factory": 5,
-                "building": 1
+                "factory": 4,
+                "building": 2
               },
               "failed": false,
               "errors": 0,
@@ -2875,8 +2875,8 @@
           "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/main.ts",
           "name": "./src/main.ts",
           "profile": {
-            "factory": 32,
-            "building": 1943
+            "factory": 36,
+            "building": 1909
           }
         },
         {
@@ -2893,16 +2893,16 @@
           "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/Skeleton.tsx",
           "name": "./src/package/Skeleton.tsx",
           "profile": {
-            "factory": 6,
-            "building": 705,
-            "dependencies": 505
+            "factory": 5,
+            "building": 711,
+            "dependencies": 508
           }
         }
       ],
       "profile": {
-        "factory": 580,
-        "building": 123,
-        "dependencies": 20
+        "factory": 584,
+        "building": 247,
+        "dependencies": 18
       },
       "failed": false,
       "errors": 0,
@@ -3258,8 +3258,8 @@
           "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/main.ts",
           "name": "./src/main.ts",
           "profile": {
-            "factory": 32,
-            "building": 1943
+            "factory": 36,
+            "building": 1909
           }
         },
         {
@@ -3276,9 +3276,9 @@
           "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/Skeleton.tsx",
           "name": "./src/package/Skeleton.tsx",
           "profile": {
-            "factory": 6,
-            "building": 705,
-            "dependencies": 505
+            "factory": 5,
+            "building": 711,
+            "dependencies": 508
           }
         },
         {
@@ -3286,15 +3286,15 @@
           "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/vue-property-decorator/lib/vue-property-decorator.js",
           "name": "./node_modules/vue-property-decorator/lib/vue-property-decorator.js",
           "profile": {
-            "factory": 580,
-            "building": 123,
-            "dependencies": 20
+            "factory": 584,
+            "building": 247,
+            "dependencies": 18
           }
         }
       ],
       "profile": {
-        "factory": 146,
-        "building": 12,
+        "factory": 15,
+        "building": 8,
         "dependencies": 0
       },
       "failed": false,
@@ -3408,8 +3408,8 @@
           "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/main.ts",
           "name": "./src/main.ts",
           "profile": {
-            "factory": 32,
-            "building": 1943
+            "factory": 36,
+            "building": 1909
           }
         },
         {
@@ -3426,9 +3426,9 @@
           "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/Skeleton.tsx",
           "name": "./src/package/Skeleton.tsx",
           "profile": {
-            "factory": 6,
-            "building": 705,
-            "dependencies": 505
+            "factory": 5,
+            "building": 711,
+            "dependencies": 508
           }
         },
         {
@@ -3436,15 +3436,15 @@
           "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/vue-property-decorator/lib/vue-property-decorator.js",
           "name": "./node_modules/vue-property-decorator/lib/vue-property-decorator.js",
           "profile": {
-            "factory": 580,
-            "building": 123,
-            "dependencies": 20
+            "factory": 584,
+            "building": 247,
+            "dependencies": 18
           }
         }
       ],
       "profile": {
-        "factory": 146,
-        "building": 12,
+        "factory": 15,
+        "building": 8,
         "dependencies": 0
       },
       "failed": false,
@@ -3510,8 +3510,8 @@
           "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/main.ts",
           "name": "./src/main.ts",
           "profile": {
-            "factory": 32,
-            "building": 1943
+            "factory": 36,
+            "building": 1909
           }
         },
         {
@@ -3528,9 +3528,9 @@
           "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/Skeleton.tsx",
           "name": "./src/package/Skeleton.tsx",
           "profile": {
-            "factory": 6,
-            "building": 705,
-            "dependencies": 505
+            "factory": 5,
+            "building": 711,
+            "dependencies": 508
           }
         },
         {
@@ -3538,15 +3538,15 @@
           "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/vue-style-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/node_modules/css-loader/dist/cjs.js??ref--1-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/postcss-loader/src/index.js??ref--1-2!/Users/apple/wwwtest/vue-skeleton2/node_modules/less-loader/dist/cjs.js!/Users/apple/wwwtest/vue-skeleton2/src/package/style/style.less",
           "name": "./src/package/style/style.less",
           "profile": {
-            "factory": 580,
-            "building": 123,
-            "dependencies": 20
+            "factory": 584,
+            "building": 247,
+            "dependencies": 18
           }
         }
       ],
       "profile": {
-        "factory": 111,
-        "building": 147
+        "factory": 99,
+        "building": 152
       },
       "failed": false,
       "errors": 0,
@@ -3594,8 +3594,8 @@
           "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/main.ts",
           "name": "./src/main.ts",
           "profile": {
-            "factory": 32,
-            "building": 1943
+            "factory": 36,
+            "building": 1909
           }
         },
         {
@@ -3612,9 +3612,9 @@
           "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/Skeleton.tsx",
           "name": "./src/package/Skeleton.tsx",
           "profile": {
-            "factory": 6,
-            "building": 705,
-            "dependencies": 505
+            "factory": 5,
+            "building": 711,
+            "dependencies": 508
           }
         },
         {
@@ -3622,9 +3622,9 @@
           "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/vue-style-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/node_modules/css-loader/dist/cjs.js??ref--1-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/postcss-loader/src/index.js??ref--1-2!/Users/apple/wwwtest/vue-skeleton2/node_modules/less-loader/dist/cjs.js!/Users/apple/wwwtest/vue-skeleton2/src/package/style/style.less",
           "name": "./src/package/style/style.less",
           "profile": {
-            "factory": 580,
-            "building": 123,
-            "dependencies": 20
+            "factory": 584,
+            "building": 247,
+            "dependencies": 18
           }
         },
         {
@@ -3632,14 +3632,14 @@
           "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/css-loader/dist/cjs.js??ref--1-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/postcss-loader/src/index.js??ref--1-2!/Users/apple/wwwtest/vue-skeleton2/node_modules/less-loader/dist/cjs.js!/Users/apple/wwwtest/vue-skeleton2/src/package/style/style.less",
           "name": "./node_modules/css-loader/dist/cjs.js??ref--1-1!./node_modules/postcss-loader/src??ref--1-2!./node_modules/less-loader/dist/cjs.js!./src/package/style/style.less",
           "profile": {
-            "factory": 111,
-            "building": 147
+            "factory": 99,
+            "building": 152
           }
         }
       ],
       "profile": {
-        "factory": 8,
-        "building": 3
+        "factory": 21,
+        "building": 4
       },
       "failed": false,
       "errors": 0,
@@ -3725,8 +3725,8 @@
           "issuerName": null,
           "issuerPath": null,
           "profile": {
-            "factory": 32,
-            "building": 1943
+            "factory": 36,
+            "building": 1909
           },
           "failed": false,
           "errors": 0,
@@ -3774,8 +3774,8 @@
               "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/main.ts",
               "name": "./src/main.ts",
               "profile": {
-                "factory": 32,
-                "building": 1943
+                "factory": 36,
+                "building": 1909
               }
             }
           ],
@@ -3943,8 +3943,8 @@
               "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/main.ts",
               "name": "./src/main.ts",
               "profile": {
-                "factory": 32,
-                "building": 1943
+                "factory": 36,
+                "building": 1909
               }
             },
             {
@@ -3958,9 +3958,9 @@
             }
           ],
           "profile": {
-            "factory": 6,
-            "building": 705,
-            "dependencies": 505
+            "factory": 5,
+            "building": 711,
+            "dependencies": 508
           },
           "failed": false,
           "errors": 0,
@@ -4035,8 +4035,8 @@
               "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/main.ts",
               "name": "./src/main.ts",
               "profile": {
-                "factory": 32,
-                "building": 1943
+                "factory": 36,
+                "building": 1909
               }
             },
             {
@@ -4050,9 +4050,9 @@
             }
           ],
           "profile": {
-            "factory": 6,
-            "building": 705,
-            "dependencies": 505
+            "factory": 5,
+            "building": 711,
+            "dependencies": 508
           },
           "failed": false,
           "errors": 0,
@@ -4127,8 +4127,8 @@
               "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/main.ts",
               "name": "./src/main.ts",
               "profile": {
-                "factory": 32,
-                "building": 1943
+                "factory": 36,
+                "building": 1909
               }
             },
             {
@@ -4142,9 +4142,9 @@
             }
           ],
           "profile": {
-            "factory": 6,
-            "building": 705,
-            "dependencies": 505
+            "factory": 5,
+            "building": 711,
+            "dependencies": 508
           },
           "failed": false,
           "errors": 0,
@@ -4219,8 +4219,8 @@
               "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/main.ts",
               "name": "./src/main.ts",
               "profile": {
-                "factory": 32,
-                "building": 1943
+                "factory": 36,
+                "building": 1909
               }
             },
             {
@@ -4234,9 +4234,9 @@
             }
           ],
           "profile": {
-            "factory": 6,
-            "building": 705,
-            "dependencies": 505
+            "factory": 5,
+            "building": 711,
+            "dependencies": 508
           },
           "failed": false,
           "errors": 0,
@@ -4311,8 +4311,8 @@
               "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/main.ts",
               "name": "./src/main.ts",
               "profile": {
-                "factory": 32,
-                "building": 1943
+                "factory": 36,
+                "building": 1909
               }
             },
             {
@@ -4326,9 +4326,9 @@
             }
           ],
           "profile": {
-            "factory": 6,
-            "building": 705,
-            "dependencies": 505
+            "factory": 5,
+            "building": 711,
+            "dependencies": 508
           },
           "failed": false,
           "errors": 0,
@@ -4403,8 +4403,8 @@
               "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/main.ts",
               "name": "./src/main.ts",
               "profile": {
-                "factory": 32,
-                "building": 1943
+                "factory": 36,
+                "building": 1909
               }
             },
             {
@@ -4418,9 +4418,9 @@
             }
           ],
           "profile": {
-            "factory": 6,
-            "building": 705,
-            "dependencies": 505
+            "factory": 5,
+            "building": 711,
+            "dependencies": 508
           },
           "failed": false,
           "errors": 0,
@@ -4495,8 +4495,8 @@
               "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/main.ts",
               "name": "./src/main.ts",
               "profile": {
-                "factory": 32,
-                "building": 1943
+                "factory": 36,
+                "building": 1909
               }
             },
             {
@@ -4510,9 +4510,9 @@
             }
           ],
           "profile": {
-            "factory": 6,
-            "building": 705,
-            "dependencies": 505
+            "factory": 5,
+            "building": 711,
+            "dependencies": 508
           },
           "failed": false,
           "errors": 0,
@@ -4587,8 +4587,8 @@
               "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/main.ts",
               "name": "./src/main.ts",
               "profile": {
-                "factory": 32,
-                "building": 1943
+                "factory": 36,
+                "building": 1909
               }
             },
             {
@@ -4602,9 +4602,9 @@
             }
           ],
           "profile": {
-            "factory": 6,
-            "building": 705,
-            "dependencies": 505
+            "factory": 5,
+            "building": 711,
+            "dependencies": 508
           },
           "failed": false,
           "errors": 0,
@@ -4679,8 +4679,8 @@
               "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/main.ts",
               "name": "./src/main.ts",
               "profile": {
-                "factory": 32,
-                "building": 1943
+                "factory": 36,
+                "building": 1909
               }
             },
             {
@@ -4694,9 +4694,9 @@
             }
           ],
           "profile": {
-            "factory": 6,
-            "building": 705,
-            "dependencies": 505
+            "factory": 5,
+            "building": 711,
+            "dependencies": 508
           },
           "failed": false,
           "errors": 0,
@@ -4753,8 +4753,8 @@
               "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/main.ts",
               "name": "./src/main.ts",
               "profile": {
-                "factory": 32,
-                "building": 1943
+                "factory": 36,
+                "building": 1909
               }
             },
             {
@@ -4771,16 +4771,16 @@
               "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/Skeleton.tsx",
               "name": "./src/package/Skeleton.tsx",
               "profile": {
-                "factory": 6,
-                "building": 705,
-                "dependencies": 505
+                "factory": 5,
+                "building": 711,
+                "dependencies": 508
               }
             }
           ],
           "profile": {
-            "factory": 580,
-            "building": 123,
-            "dependencies": 20
+            "factory": 584,
+            "building": 247,
+            "dependencies": 18
           },
           "failed": false,
           "errors": 0,
@@ -4789,9 +4789,9 @@
           "reasons": [
             {
               "moduleId": null,
-              "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/ListCom.tsx",
-              "module": "./src/package/components/ListCom.tsx",
-              "moduleName": "./src/package/components/ListCom.tsx",
+              "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/Card.tsx",
+              "module": "./src/package/components/Card.tsx",
+              "moduleName": "./src/package/components/Card.tsx",
               "type": "harmony side effect evaluation",
               "userRequest": "vue-property-decorator",
               "loc": "41:0-51"
@@ -4807,9 +4807,18 @@
             },
             {
               "moduleId": null,
-              "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/Card.tsx",
-              "module": "./src/package/components/Card.tsx",
-              "moduleName": "./src/package/components/Card.tsx",
+              "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/Rect.tsx",
+              "module": "./src/package/components/Rect.tsx",
+              "moduleName": "./src/package/components/Rect.tsx",
+              "type": "harmony side effect evaluation",
+              "userRequest": "vue-property-decorator",
+              "loc": "41:0-51"
+            },
+            {
+              "moduleId": null,
+              "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/List.tsx",
+              "module": "./src/package/components/List.tsx",
+              "moduleName": "./src/package/components/List.tsx",
               "type": "harmony side effect evaluation",
               "userRequest": "vue-property-decorator",
               "loc": "41:0-51"
@@ -4819,15 +4828,6 @@
               "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/Circle.tsx",
               "module": "./src/package/components/Circle.tsx",
               "moduleName": "./src/package/components/Circle.tsx",
-              "type": "harmony side effect evaluation",
-              "userRequest": "vue-property-decorator",
-              "loc": "41:0-51"
-            },
-            {
-              "moduleId": null,
-              "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/StraightLine.tsx",
-              "module": "./src/package/components/StraightLine.tsx",
-              "moduleName": "./src/package/components/StraightLine.tsx",
               "type": "harmony side effect evaluation",
               "userRequest": "vue-property-decorator",
               "loc": "41:0-51"
@@ -4852,18 +4852,18 @@
             },
             {
               "moduleId": null,
-              "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/Rect.tsx",
-              "module": "./src/package/components/Rect.tsx",
-              "moduleName": "./src/package/components/Rect.tsx",
+              "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/ListCom.tsx",
+              "module": "./src/package/components/ListCom.tsx",
+              "moduleName": "./src/package/components/ListCom.tsx",
               "type": "harmony side effect evaluation",
               "userRequest": "vue-property-decorator",
               "loc": "41:0-51"
             },
             {
               "moduleId": null,
-              "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/List.tsx",
-              "module": "./src/package/components/List.tsx",
-              "moduleName": "./src/package/components/List.tsx",
+              "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/StraightLine.tsx",
+              "module": "./src/package/components/StraightLine.tsx",
+              "moduleName": "./src/package/components/StraightLine.tsx",
               "type": "harmony side effect evaluation",
               "userRequest": "vue-property-decorator",
               "loc": "41:0-51"
@@ -5081,8 +5081,8 @@
               "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/main.ts",
               "name": "./src/main.ts",
               "profile": {
-                "factory": 32,
-                "building": 1943
+                "factory": 36,
+                "building": 1909
               }
             },
             {
@@ -5099,22 +5099,67 @@
               "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/Skeleton.tsx",
               "name": "./src/package/Skeleton.tsx",
               "profile": {
-                "factory": 6,
-                "building": 705,
-                "dependencies": 505
+                "factory": 5,
+                "building": 711,
+                "dependencies": 508
               }
             }
           ],
           "profile": {
-            "factory": 580,
-            "building": 123,
-            "dependencies": 20
+            "factory": 584,
+            "building": 247,
+            "dependencies": 18
           },
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "assets": [],
           "reasons": [
+            {
+              "moduleId": null,
+              "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/Card.tsx",
+              "module": "./src/package/components/Card.tsx",
+              "moduleName": "./src/package/components/Card.tsx",
+              "type": "harmony side effect evaluation",
+              "userRequest": "../BaseComponent",
+              "loc": "42:0-45"
+            },
+            {
+              "moduleId": null,
+              "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/StraightLine.tsx",
+              "module": "./src/package/components/StraightLine.tsx",
+              "moduleName": "./src/package/components/StraightLine.tsx",
+              "type": "harmony side effect evaluation",
+              "userRequest": "../BaseComponent",
+              "loc": "42:0-45"
+            },
+            {
+              "moduleId": null,
+              "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/List.tsx",
+              "module": "./src/package/components/List.tsx",
+              "moduleName": "./src/package/components/List.tsx",
+              "type": "harmony side effect evaluation",
+              "userRequest": "../BaseComponent",
+              "loc": "42:0-45"
+            },
+            {
+              "moduleId": null,
+              "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/Avatar.tsx",
+              "module": "./src/package/components/Avatar.tsx",
+              "moduleName": "./src/package/components/Avatar.tsx",
+              "type": "harmony side effect evaluation",
+              "userRequest": "../BaseComponent",
+              "loc": "42:0-45"
+            },
+            {
+              "moduleId": null,
+              "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/Rect.tsx",
+              "module": "./src/package/components/Rect.tsx",
+              "moduleName": "./src/package/components/Rect.tsx",
+              "type": "harmony side effect evaluation",
+              "userRequest": "../BaseComponent",
+              "loc": "42:0-45"
+            },
             {
               "moduleId": null,
               "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/Skeleton.tsx",
@@ -5135,54 +5180,9 @@
             },
             {
               "moduleId": null,
-              "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/List.tsx",
-              "module": "./src/package/components/List.tsx",
-              "moduleName": "./src/package/components/List.tsx",
-              "type": "harmony side effect evaluation",
-              "userRequest": "../BaseComponent",
-              "loc": "42:0-45"
-            },
-            {
-              "moduleId": null,
               "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/Circle.tsx",
               "module": "./src/package/components/Circle.tsx",
               "moduleName": "./src/package/components/Circle.tsx",
-              "type": "harmony side effect evaluation",
-              "userRequest": "../BaseComponent",
-              "loc": "42:0-45"
-            },
-            {
-              "moduleId": null,
-              "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/StraightLine.tsx",
-              "module": "./src/package/components/StraightLine.tsx",
-              "moduleName": "./src/package/components/StraightLine.tsx",
-              "type": "harmony side effect evaluation",
-              "userRequest": "../BaseComponent",
-              "loc": "42:0-45"
-            },
-            {
-              "moduleId": null,
-              "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/Avatar.tsx",
-              "module": "./src/package/components/Avatar.tsx",
-              "moduleName": "./src/package/components/Avatar.tsx",
-              "type": "harmony side effect evaluation",
-              "userRequest": "../BaseComponent",
-              "loc": "42:0-45"
-            },
-            {
-              "moduleId": null,
-              "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/Card.tsx",
-              "module": "./src/package/components/Card.tsx",
-              "moduleName": "./src/package/components/Card.tsx",
-              "type": "harmony side effect evaluation",
-              "userRequest": "../BaseComponent",
-              "loc": "42:0-45"
-            },
-            {
-              "moduleId": null,
-              "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/Rect.tsx",
-              "module": "./src/package/components/Rect.tsx",
-              "moduleName": "./src/package/components/Rect.tsx",
               "type": "harmony side effect evaluation",
               "userRequest": "../BaseComponent",
               "loc": "42:0-45"
@@ -5234,18 +5234,18 @@
             },
             {
               "moduleId": null,
-              "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/ListCom.tsx",
-              "module": "./src/package/components/ListCom.tsx",
-              "moduleName": "./src/package/components/ListCom.tsx",
+              "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/Avatar.tsx",
+              "module": "./src/package/components/Avatar.tsx",
+              "moduleName": "./src/package/components/Avatar.tsx",
               "type": "harmony import specifier",
               "userRequest": "../BaseComponent",
               "loc": "118:2-15"
             },
             {
               "moduleId": null,
-              "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/Avatar.tsx",
-              "module": "./src/package/components/Avatar.tsx",
-              "moduleName": "./src/package/components/Avatar.tsx",
+              "moduleIdentifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/ListCom.tsx",
+              "module": "./src/package/components/ListCom.tsx",
+              "moduleName": "./src/package/components/ListCom.tsx",
               "type": "harmony import specifier",
               "userRequest": "../BaseComponent",
               "loc": "118:2-15"
@@ -5309,8 +5309,8 @@
               "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/main.ts",
               "name": "./src/main.ts",
               "profile": {
-                "factory": 32,
-                "building": 1943
+                "factory": 36,
+                "building": 1909
               }
             },
             {
@@ -5327,15 +5327,15 @@
               "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/components/Custom.tsx",
               "name": "./src/package/components/Custom.tsx",
               "profile": {
-                "factory": 6,
-                "building": 705,
-                "dependencies": 505
+                "factory": 5,
+                "building": 711,
+                "dependencies": 508
               }
             }
           ],
           "profile": {
-            "factory": 361,
-            "building": 123
+            "factory": 396,
+            "building": 248
           },
           "failed": false,
           "errors": 0,
@@ -5435,8 +5435,8 @@
               "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/main.ts",
               "name": "./src/main.ts",
               "profile": {
-                "factory": 32,
-                "building": 1943
+                "factory": 36,
+                "building": 1909
               }
             },
             {
@@ -5453,9 +5453,9 @@
               "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/Skeleton.tsx",
               "name": "./src/package/Skeleton.tsx",
               "profile": {
-                "factory": 6,
-                "building": 705,
-                "dependencies": 505
+                "factory": 5,
+                "building": 711,
+                "dependencies": 508
               }
             },
             {
@@ -5463,15 +5463,15 @@
               "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/vue-style-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/node_modules/css-loader/dist/cjs.js??ref--1-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/postcss-loader/src/index.js??ref--1-2!/Users/apple/wwwtest/vue-skeleton2/node_modules/less-loader/dist/cjs.js!/Users/apple/wwwtest/vue-skeleton2/src/package/style/style.less",
               "name": "./src/package/style/style.less",
               "profile": {
-                "factory": 580,
-                "building": 123,
-                "dependencies": 20
+                "factory": 584,
+                "building": 247,
+                "dependencies": 18
               }
             }
           ],
           "profile": {
-            "factory": 111,
-            "building": 147
+            "factory": 99,
+            "building": 152
           },
           "failed": false,
           "errors": 0,
@@ -5519,8 +5519,8 @@
               "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/main.ts",
               "name": "./src/main.ts",
               "profile": {
-                "factory": 32,
-                "building": 1943
+                "factory": 36,
+                "building": 1909
               }
             },
             {
@@ -5537,9 +5537,9 @@
               "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/babel-loader/lib/index.js??ref--3-0!/Users/apple/wwwtest/vue-skeleton2/node_modules/ts-loader/index.js??ref--3-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/tslint-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/src/package/Skeleton.tsx",
               "name": "./src/package/Skeleton.tsx",
               "profile": {
-                "factory": 6,
-                "building": 705,
-                "dependencies": 505
+                "factory": 5,
+                "building": 711,
+                "dependencies": 508
               }
             },
             {
@@ -5547,9 +5547,9 @@
               "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/vue-style-loader/index.js!/Users/apple/wwwtest/vue-skeleton2/node_modules/css-loader/dist/cjs.js??ref--1-1!/Users/apple/wwwtest/vue-skeleton2/node_modules/postcss-loader/src/index.js??ref--1-2!/Users/apple/wwwtest/vue-skeleton2/node_modules/less-loader/dist/cjs.js!/Users/apple/wwwtest/vue-skeleton2/src/package/style/style.less",
               "name": "./src/package/style/style.less",
               "profile": {
-                "factory": 580,
-                "building": 123,
-                "dependencies": 20
+                "factory": 584,
+                "building": 247,
+                "dependencies": 18
               }
             },
             {
@@ -5557,14 +5557,14 @@
               "identifier": "/Users/apple/wwwtest/vue-skeleton2/node_modules/vue-style-loader/lib/addStylesClient.js",
               "name": "./node_modules/vue-style-loader/lib/addStylesClient.js",
               "profile": {
-                "factory": 111,
-                "building": 147
+                "factory": 99,
+                "building": 152
               }
             }
           ],
           "profile": {
-            "factory": 5,
-            "building": 1
+            "factory": 4,
+            "building": 2
           },
           "failed": false,
           "errors": 0,
