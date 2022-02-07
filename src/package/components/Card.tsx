@@ -18,9 +18,7 @@ class cardCom extends BaseComponent {
     const styleC = Object.assign({width:'100%',height:'100%'},options)
   
     return (
-      <div class={[style.card]} style="margin: '15%'">
         <div style={[styleC]} class={[active ? style.progActive : style.prog]}></div>
-      </div>
     )
   }
 }

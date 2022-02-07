@@ -9,7 +9,7 @@
     "build": "webpack --progress --config='./build/webpack.prod.config.js' --profile --json > stats.json",
     "fix": "tslint --fix --project ./tsconfig.json",
     "push": "bash push.sh",
-    "publish": "bash publish.sh"
+    "pub": "bash publish.sh"
   },
   "repository": {
     "type": "git",
