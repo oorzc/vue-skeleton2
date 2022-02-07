@@ -26,83 +26,81 @@ class skeleton extends BaseComponent {
   public render(h) {
     const { type, options, title, loading, active, childrenOption, start, center, end, rules } = this.$props
 
-    let dom = ''
     switch (type) {
       case 'rect':
-        dom = `<Rectangular
-                title=${title}
-                loading=${loading}
-                active=${active}
-                options=${options}
-        />`
+        return <Rectangular
+                title={title}
+                loading={loading}
+                active={active}
+                options={options}
+        />
         break;
       case 'list':
-        dom = `<List
-          title=${title}
-          loading=${loading}
-          active=${active}
-          options=${options}
-        />`
+        return <List
+          title={title}
+          loading={loading}
+          active={active}
+          options={options}
+        />
         break;
       case 'avatar':
-        dom = `<Avatar
-          title=${title}
-          loading=${loading}
-          active=${active}
-          options=${options}
-        />`
+        return <Avatar
+          title={title}
+          loading={loading}
+          active={active}
+          options={options}
+        />
         break;
       case 'custom':
-        dom = `<CustomList
-          title=${title}
-          loading=${loading}
-          active=${active}
-          options=${options}
-          childrenOption=${childrenOption}
-        />`
+        return <CustomList
+          title={title}
+          loading={loading}
+          active={active}
+          options={options}
+          childrenOption={childrenOption}
+        />
         break;
       case 'straightLine':
-        dom = `<StraightLine
-          title=${title}
-          rules=${rules}
-          loading=${loading}
-          active=${active}
-          options=${options}
-        />`
+        return <StraightLine
+          title={title}
+          rules={rules}
+          loading={loading}
+          active={active}
+          options={options}
+        />
         break;
       case 'circlecom':
-        dom = `<CircleCom
-          title=${title}
-          rules=${rules}
-          loading=${loading}
-          active=${active}
-          options=${options}
-        />`
+        return <CircleCom
+          title={title}
+          rules={rules}
+          loading={loading}
+          active={active}
+          options={options}
+        />
         break;
       case 'card':
-        dom = `<CardCom
-          title=${title}
-          rules=${rules}
-          loading=${loading}
-          active=${active}
-          options=${options}
+        return <CardCom
+          title={title}
+          rules={rules}
+          loading={loading}
+          active={active}
+          options={options}
         />
-      `
+      
         break;
       case 'listcom':
-        dom = `<ListCom
-          title=${title}
-          rules=${rules}
-          loading=${loading}
-          active=${active}
-          options=${options}
-        />`
+        return <ListCom
+          title={title}
+          rules={rules}
+          loading={loading}
+          active={active}
+          options={options}
+        />
         break;
       default:
         break;
     }
 
-    return dom
   }
 }
 
