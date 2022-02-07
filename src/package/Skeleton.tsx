@@ -25,87 +25,84 @@ class skeleton extends BaseComponent {
 
   public render(h) {
     const { type, options, title, loading, active, childrenOption, start, center, end, rules } = this.$props
-    return (
-      <div class={style.contianer}>
-        {
-          loading ?
-          <div style={{height: '100%'}}>
-            {
-              title && <div class={[active ? style.progActive : style.prog, style.title]} />
-            }
-            {
-              type === 'rect' && <Rectangular
-                title={title}
-                loading={loading}
-                active={active}
-                options={options}
-              />
-            }
-            {
-              type === 'list' && <List
-                title={title}
-                loading={loading}
-                active={active}
-                options={options}
-              />
-            }
-            {
-              type === 'avatar' && <Avatar
-                title={title}
-                loading={loading}
-                active={active}
-                options={options}
-              />
-            }
-            {
-                type === 'custom' && <CustomList
-                title={title}
-                loading={loading}
-                active={active}
-                options={options}
-                childrenOption={childrenOption}
-              />
-            }
-            {
-                type === 'straightLine' && <StraightLine
-                title={title}
-                rules={rules}
-                loading={loading}
-                active={active}
-                options={options}
-              />
-            }
-            {
-                type === 'circlecom' && <CircleCom
-                title={title}
-                rules={rules}
-                loading={loading}
-                active={active}
-                options={options}
-              />
-            }
-            {
-                type === 'card' && <CardCom
-                title={title}
-                rules={rules}
-                loading={loading}
-                active={active}
-                options={options}
-              />
-            }
-            {
-                type === 'listcom' && <ListCom
-                title={title}
-                rules={rules}
-                loading={loading}
-                active={active}
-                options={options}
-              />
-            }
-            </div> : this.$slots.default
+
+    let dom = ''
+    switch (type) {
+      case 'rect':
+        dom = `<Rectangular
+                title=${title}
+                loading=${loading}
+                active=${active}
+                options=${options}
+        />`
+        break;
+      case 'list':
+        dom = `<List
+          title=${title}
+          loading=${loading}
+          active=${active}
+          options=${options}
+        />`
+        break;
+      case 'avatar':
+        dom = `<Avatar
+          title=${title}
+          loading=${loading}
+          active=${active}
+          options=${options}
+        />`
+        break;
+      case 'custom':
+        dom = `<CustomList
+          title=${title}
+          loading=${loading}
+          active=${active}
+          options=${options}
+          childrenOption=${childrenOption}
+        />`
+        break;
+      case 'straightLine':
+        dom = `<StraightLine
+          title=${title}
+          rules=${rules}
+          loading=${loading}
+          active=${active}
+          options=${options}
+        />`
+        break;
+      case 'circlecom':
+        dom = `<CircleCom
+          title=${title}
+          rules=${rules}
+          loading=${loading}
+          active=${active}
+          options=${options}
+        />`
+        break;
+      case 'card':
+        dom = `<CardCom
+          title=${title}
+          rules=${rules}
+          loading=${loading}
+          active=${active}
+          options=${options}
+        />
+      `
+        break;
+      case 'listcom':
+        dom = `<ListCom
+          title=${title}
+          rules=${rules}
+          loading=${loading}
+          active=${active}
+          options=${options}
+        />`
+        break;
+      default:
+        break;
     }
-      </div>
-    )
+
+    return dom
   }
 }
 
